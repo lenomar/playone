@@ -765,5 +765,5 @@ thunder-monetize.com, 4766022545, RESELLER
 bidence.com, d35302328a4b1f129d376f9c2932b0b7, RESELLER
 programmaticx.ai, 6654983, RESELLER, b42d42eb28400efa
 
-# 2026-10-20
+# 2026-10-20 facebook
 facebook.com, 3816049868550726, DIRECT, c3e20eee3f780d68
